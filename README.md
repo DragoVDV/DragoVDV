@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+React & Python Development | AI | Created 30+ successful projects <br><br><br>Welcome 👋I am an experienced web developer who is passionate about delivering successful projects and has a track record of delivering them 🚀<br><br>🔑Key points about me:<br>- Expert web developer with over 4 years of experience developing complex web applications.<br>- Good communicator, with experience managing and leading development teams.<br>- I have an entrepreneurial mindset and a product-oriented mindset, I enjoy not just writing code, but making projects successful.<br>- A full-fledged developer, although I prefer the back-end.<br>- Deep understanding of OOP, design patterns, domain-oriented design.<br>- Specializes in React, Python, TypeScript, Flask, Django, FastAPI<br>- Ability to write complex and efficient database queries, optimizing the site's performance. Knowledge of NoSQL (MongoDb), SQL(Postgresql, MySQL, SQLite).<br>- Algorithms and Data Structure, Catching(Redis)<br>- Experience with asynchronous messaging/queue processing.<br>- Worked with many APIs such as Stripe, Saferpay, Twilio, Cronofy, Sendgrid, Hubspot, Zapier, Viva, PayPal and more.<br><br>💻When programming, I use industry best practices to achieve the best results; I consider myself a talented programmer.<br>I am detail-oriented, my code is always well-commented, clean and easy to understand. I am also a quality-oriented developer and my code is always well-tested.<br>I am able to plan, execute, test and launch projects. I am a self-starter who can see things through to the end.<br><br>I am passionate about building great projects and helping companies succeed.<br>Feel free to message me to discuss your project and make it a success!🚀🚀🚀
 
-<!--
-**DragoVDV/DragoVDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/volodymyr-datskiv-664567296/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Volodya-r4m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:volodadatskivwork@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DragoVDV&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DragoVDV&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DragoVDV&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DragoVDV&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
